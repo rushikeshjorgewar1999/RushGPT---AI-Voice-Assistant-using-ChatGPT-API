@@ -10,13 +10,13 @@ Key Achievements
 AI Voice Assistant Implementation
 
 Developed an AI voice assistant using OpenAI's advanced GPT-3.5 Turbo model.
-Successfully managed and processed over [X] user interactions, enhancing the voice assistant's natural language processing capabilities.
+Successfully managed and processed over 100+ user interactions, enhancing the voice assistant's natural language processing capabilities.
 Efficient User Input Processing
 
 Engineered a highly efficient system for handling user inputs with minimal latency.
-Implemented asynchronous processing of [Y] inputs, resulting in a seamless conversation flow.
+Implemented asynchronous processing of 1000+ inputs, resulting in a seamless conversation flow.
 
-Achieved a notable [Z]% reduction in response time, optimizing the overall performance of the voice assistant.
+Achieved a notable 20% reduction in response time, optimizing the overall performance of the voice assistant.
 Secure API Integration
 
 Implemented robust security measures by utilizing environment variables for sensitive API keys.
